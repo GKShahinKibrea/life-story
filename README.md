@@ -18,3 +18,9 @@ This is second line
 ### italic text
  _This is an italic text_</br>
  __This is an italic text__
+
+<br/>
+
+### bold text
+** This is an italic text **
+<br/>
