@@ -24,3 +24,9 @@ This is second line
 ### bold text
 ** This is an italic text **
 <br/>
+**Text** 
+<br/>
+The purpose of living is to have a **healthy, happy**, and a **cheerful** life.  
+<br/>
+Markdown is a **plaintext language**, which is simple and **easy to learn**.  
+<br/>
