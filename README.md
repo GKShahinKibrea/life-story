@@ -14,3 +14,7 @@ This is second line
 <p> for females, or "Jonnie Doe" and "Janie Doe" for children, or just</p>
 <p>"Doe" non-gender-specifically are used as placeholder names for a party</p>
 <p>whose true identity is unknown or must be withheld in a legal action, case, or discussion.</p>
+
+### italic text
+ _This is an italic text_
+ __This is an italic text__
