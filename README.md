@@ -16,5 +16,5 @@ This is second line
 <p>whose true identity is unknown or must be withheld in a legal action, case, or discussion.</p>
 
 ### italic text
- _This is an italic text_
+ _This is an italic text_</br>
  __This is an italic text__
