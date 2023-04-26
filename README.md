@@ -43,5 +43,6 @@ Markdown is a **plaintext language**, which is simple and **easy to learn**.
  [studywithanis](http://www.studywithanis.com) 
  [google][googlelink]
  [facebook][facebooklink]
- [googlelink]: https://www.google.com/
- [facebooklink]: https://www.facebook.com/
+ </br>
+ [googlelink]: https://www.google.com/ </br>
+ [facebooklink]: https://www.facebook.com/ </br>
