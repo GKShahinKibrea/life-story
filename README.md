@@ -38,11 +38,15 @@ Markdown is a **plaintext language**, which is simple and **easy to learn**.
  ### disable link 
  `http://www.studywithanis.com`
 
- ### markdown link syntax
+ <!-- automatic link -->
 
- [studywithanis](http://www.studywithanis.com) 
- [google][googlelink]
- [facebook][facebooklink]
- </br>
- [googlelink]: https://www.google.com/ </br>
- [facebooklink]: https://www.facebook.com/ </br>
+   http://www.studywithanis.com
+
+   <!-- markdown link syntax -->
+   [title](link)
+   [studywithanis](http://www.studywithanis.com)  
+   [studywithanis][websitelink]
+
+   <!-- all link is here  -->
+
+   [websitelink]: http://www.studywithanis.com
