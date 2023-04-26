@@ -30,3 +30,18 @@ The purpose of living is to have a **healthy, happy**, and a **cheerful** life.
 <br/>
 Markdown is a **plaintext language**, which is simple and **easy to learn**.  
 <br/>
+### link
+[Javatpoint](https://www.javatpoint.com/)
+ ### automatic link 
+ http://www.studywithanis.com
+
+ ### disable link 
+ `http://www.studywithanis.com`
+
+ ### markdown link syntax
+
+ [studywithanis](http://www.studywithanis.com) 
+ [google][googlelink]
+ [facebook][facebooklink]
+ [googlelink]: https://www.google.com/
+ [facebooklink]: https://www.facebook.com/
